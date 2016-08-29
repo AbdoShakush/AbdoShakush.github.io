@@ -1,6 +1,9 @@
 ---
-layout: post
-title: Non-tech: A guide to Russia on a budget
+layout:     post
+title:      A guide to Russia (on a budget)
+date:       2016-07-11
+summary:    I will keep a diary of my planning for my trip to Russia.
+categories: jekyll pixyll
 ---
 
 *This article is a work-in-progress and will be updated as I learn*
@@ -43,5 +46,3 @@ For the documents and Visa. Needs to be relatively new.
 # Accommodation
 
 # Places to visit
-
-#
